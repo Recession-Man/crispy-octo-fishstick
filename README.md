@@ -1,5 +1,7 @@
 # crispy-octo-fishstick
 
+*Convert to common JS
+
 Here's a README file template you can use for your new GitHub repository. This template includes a general overview of your bot, setup instructions, and a brief explanation of how the bot works.
 
 ---
